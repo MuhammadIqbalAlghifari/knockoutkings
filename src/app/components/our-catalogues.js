@@ -178,7 +178,7 @@ export default function OurCatalogues() {
 
                                             <div className="w-full flex justify-between">
 
-                                                <button className="bg-red-600 text-white md:text-base text-sm px-4 py-2 rounded-md" onClick={closeModal}>Close Modal</button>
+                                                <button className="bg-red-600 text-white md:text-base text-sm px-4 py-2 rounded-md" onClick={closeModal}>Close This Catalogue</button>
 
                                                 <div className="flex justify-center items-center md:gap-8 gap-4">
 
